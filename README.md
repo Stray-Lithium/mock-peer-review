@@ -17,11 +17,11 @@ What we're looking to understand about you:
 
  As this is only a mock peer review, capture your feedback in a markdown document in a format that allows us to understand your comments with as much code context as possible, **see the example below**.
 
- > Line `#17`
+ > Line `#18`
  > ```
  > $t = 0;
  > ``` 
- > The use of `$t` as a param name is vague, use a more verbose name... _for xyz reasons_, _etc, etc_. For example: `$total = 0;`
+ > The use of `$t` as a variable name is vague, use a more descriptive name... _for xyz reasons_, _etc, etc_. For example: `$total = 0;`
 
 
  ## Testing the scripts
