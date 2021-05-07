@@ -1,6 +1,6 @@
 # Code Critique 
 
-Peer reviews are critical element of Frog's SLDC. We feel the ability to openly collaborate on a piece of code ensures quality contributions whilst providing an effective tool to develop the teams technical skills.
+Peer reviews are a critical element of Frog's SLDC. We feel the ability to openly collaborate on a piece of code ensures quality contributions whilst providing an effective tool to develop the teams technical skills.
 
 In this exercise we'd like to mimic a merge request scenario where you play the role of peer reviewer. Take a look at the code included in this folder, respond with comments and insights you feel relevant to the request.
 
