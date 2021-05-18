@@ -25,7 +25,7 @@ What we're looking to understand about you:
 
 
  ## Testing the scripts
- There are various implementations of the same build included in the repository. **Choose a single implementation to critique** (in the language your most comfortable with), each implementation will broadly share similar characteristics but there maybe nuances within that are language specific. 
+ There are various implementations of the same build included in the repository. **Choose a single implementation to critique** (in the language you're most comfortable with), each implementation will broadly share similar characteristics but there maybe nuances within that are language specific. 
  ### PHP (v7.0+)
  ```
  # php -f ./books.php
